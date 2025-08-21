@@ -1,6 +1,7 @@
 🌟 Starbucks Clone Landing Page
 
 <img width="1888" height="901" alt="Screenshot 2025-08-21 155423" src="https://github.com/user-attachments/assets/d5ae9fa6-d3b0-46e4-a0e2-265046eb22f3" />
+<img width="1896" height="888" alt="Screenshot 2025-08-21 155429" src="https://github.com/user-attachments/assets/b5608d74-2ac3-4bfc-933e-7db211376e16" />
 <img width="1894" height="671" alt="Screenshot 2025-08-21 155435" src="https://github.com/user-attachments/assets/f89d56c6-fe03-454b-a3b8-a1ac8704cb31" />
 <img width="1886" height="884" alt="Screenshot 2025-08-21 155455" src="https://github.com/user-attachments/assets/a066c15b-1fb8-4414-ac2d-68082b484962" />
 
