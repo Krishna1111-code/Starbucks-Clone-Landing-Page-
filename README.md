@@ -1,7 +1,6 @@
 <img width="1888" height="901" alt="Screenshot 2025-08-21 155423" src="https://github.com/user-attachments/assets/d5ae9fa6-d3b0-46e4-a0e2-265046eb22f3" />🌟 Starbucks Clone Landing Page
 
 
-<img width="1888" height="901" alt="Screenshot 2025-08-21 155423" src="https://github.com/user-attachments/assets/48ada427-3023-415b-8560-06ca3e08ca4e" />
 <img width="1894" height="671" alt="Screenshot 2025-08-21 155435" src="https://github.com/user-attachments/assets/f03ce52d-edf9-4dc0-b4ac-c377243c29c2" />
 <img width="1886" height="884" alt="Screenshot 2025-08-21 155455" src="https://github.com/user-attachments/assets/a066c15b-1fb8-4414-ac2d-68082b484962" />
 
