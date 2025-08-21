@@ -2,6 +2,8 @@
 
 
 <img width="1894" height="671" alt="Screenshot 2025-08-21 155435" src="https://github.com/user-attachments/assets/f03ce52d-edf9-4dc0-b4ac-c377243c29c2" />
+<img width="1896" height="888" alt="Screenshot 2025-08-21 155429" src="https://github.com/user-attachments/assets/9a98eef9-03c1-47ee-bbc4-05b93f05fa90" />
+<img width="1894" height="671" alt="Screenshot 2025-08-21 155435" src="https://github.com/user-attachments/assets/f89d56c6-fe03-454b-a3b8-a1ac8704cb31" />
 <img width="1886" height="884" alt="Screenshot 2025-08-21 155455" src="https://github.com/user-attachments/assets/a066c15b-1fb8-4414-ac2d-68082b484962" />
 
 
