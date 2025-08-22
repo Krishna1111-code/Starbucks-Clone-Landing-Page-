@@ -24,11 +24,4 @@ The goal of this project is to practice frontend skills by recreating a modern, 
 HTML5 – structure of the page
 CSS3 – styling, layout, and responsiveness
 
-How to Run ----------- ❓
-
-Clone the repo: 
-git clone https://github.com/<your-username>/Starbucks-Clone-Landing-Page.git
-THEN 🙂
-Open index.html in any browser
-
 Enjoy The Project 💙 
